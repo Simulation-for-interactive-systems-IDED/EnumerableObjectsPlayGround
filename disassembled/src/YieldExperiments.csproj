@@ -5,7 +5,7 @@
     <ProjectType>local</ProjectType>
     <ProjectVersion>7.10.377</ProjectVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>4ecea71f-7481-46d4-8561-8e0af93988f8</ProjectGuid>
+    <ProjectGuid>5bdc6951-794c-458d-ab80-1614402f2b2b</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <AssemblyName>YieldExperiments</AssemblyName>
     <OutputType>Exe</OutputType>
